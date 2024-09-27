@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: yellowgreen;
+    font-size: larger;
+}
+#value{
+    font-size: 50px;
+    padding-left: 10px;
+}
+.button-container button{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: antiquewhite;
+    background-color: black;
+
+}
